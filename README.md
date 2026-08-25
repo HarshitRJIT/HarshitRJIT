@@ -28,7 +28,7 @@
 * 🎓 **B.Tech — Electronics & Communication Engineering**, Rustamji Institute of Technology (RJIT), BSF Academy
 * 📜 **MERN Stack Developer Certified — Apna College**
 * 💬 Ask me about **JavaScript, React.js, Node.js, Express.js, MongoDB, REST APIs, and Web Development**
-* 🌐 Check out my **[Portfolio](https://harshitrjit.github.io/Portfolio/)**
+* 🌐 Check out my **[Portfolio](https://portfolio-kc7bi32cx-harshit-dubeys-projects-341094fb.vercel.app/)**
 
 ---
 
@@ -256,7 +256,7 @@ Currently practicing **Data Structures & Algorithms** and improving problem-solv
 ## 🌐 Portfolio & Projects
 
 <p align="center">
-  <a href="https://harshitrjit.github.io/Portfolio/">
+  <a href="https://portfolio-kc7bi32cx-harshit-dubeys-projects-341094fb.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0e75b6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
 
